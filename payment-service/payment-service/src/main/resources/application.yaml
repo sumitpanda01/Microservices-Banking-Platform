@@ -25,6 +25,8 @@ server:
   port: 8083
 
 #Razorpay configuration
+# do add your key-id and key-secret of razorpay after make it publish and add the url in the
+#razorpay and after this add the key-id and key-secret in this then move to the testing part
 razorpay:
   key-id: rzp_xxxxx
   key-secret:
